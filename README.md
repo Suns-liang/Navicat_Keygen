@@ -6,3 +6,6 @@ based on the studies of DoubleLabyrinth, this keygen contains some small improve
 Regards
 
 ..:: DeltaFoX ::..
+windows 
+Run regedit to clear 
+ HKEY_CURRENT_USER\Software\PremiumSoft 
